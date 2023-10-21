@@ -1,0 +1,2 @@
+# -PSO-based-Convolutional-Neural-Network-for-Physical-Human-Activity-Recognition
+About With the advance growth of technologies, telecom sector has seen a major transformation in its services in terms of quality, technology implementation over a decade. Accordingly, there are many service providers emerged, assuring varied features in attracting new customers. With this competition, every company in telecom industry is striving 
